@@ -1,0 +1,21 @@
+p{border: 10px  solid red;
+    border-width: 10px 40px 
+padding: 30px;
+margin: 40px;
+
+}
+.balra{
+    text-align: left;
+}
+.jobbra{
+    text-align: right;
+}
+.középre{
+    text-align: center;
+}
+.sorkizart{
+    text-align: justify;
+}
+.elsosor_behuzasa{
+    text-indent: 20px;
+}
